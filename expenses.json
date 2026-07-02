@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "amount": 250.0,
+        "category": "Maintenance",
+        "description": "Fence maintenance"
+    }
+]
