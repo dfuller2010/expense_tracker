@@ -3,5 +3,10 @@
         "amount": 250.0,
         "category": "Maintenance",
         "description": "Fence maintenance"
+    },
+    {
+        "amount": 1500.0,
+        "category": "Misc",
+        "description": "Misc expense"
     }
 ]
